@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @saumyasharma03
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning MERN
+- 🌱 I’ve worked on several projects using MERN stack.
+- ✨ I'm currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Fullstack projects.
 - 📫 How to reach me:
 - Email: saumya.sharma0915@gmail.com
