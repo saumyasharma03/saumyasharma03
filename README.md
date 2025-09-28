@@ -9,7 +9,7 @@ I'm passionate about building scalable systems and crafting impactful web experi
 - 🚀 **Co-Founder of PetBuddy** — Secured ₹5,00,000 pre-seed funding to scale a MERN-based platform for pet care & logistics.
 - 🌱 Currently sharpening my **Competitive Programming** skills.
 - 📫 Reach me at: [saumya.sharma0915@gmail.com](mailto:saumya.sharma0915@gmail.com)  
-- 📄 View my [Resume]([https://drive.google.com/file/d/1zy_mWShMFTFWzIadMljz5EygrEBt-Vzy/view?usp=sharing](https://drive.google.com/file/d/1WbrmGO2Lb-dFlW-SUdcQB2BIV0mNYn5S/view?usp=sharing))  
+- 📄 View my [Resume]([https://drive.google.com/file/d/1zy_mWShMFTFWzIadMljz5EygrEBt-Vzy/view?usp=sharing](https://drive.google.com/file/d/1WbrmGO2Lb-dFlW-SUdcQB2BIV0mNYn5S/view?usp=sharing)
 - 🌐 Explore my [Portfolio](https://portfolio-s-psi.vercel.app/)
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
